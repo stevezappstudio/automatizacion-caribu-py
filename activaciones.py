@@ -2,6 +2,7 @@
 # Proyecto:   Activaciones Caribu
 # Fecha:      Agosto 2022
 # Prueba de Sincrinización 2022-09-01 saludos terricola
+
                        
 from multiprocessing import parent_process
 import string
